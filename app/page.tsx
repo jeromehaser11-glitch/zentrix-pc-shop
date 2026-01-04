@@ -1,0 +1,1 @@
+export default function Page(){return(<div><h1 className='text-3xl font-bold'>Zentrix – Final</h1></div>)}

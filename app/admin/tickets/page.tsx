@@ -1,0 +1,1 @@
+export default function Page(){return(<div><h1>Ticket Verwaltung</h1></div>)}
